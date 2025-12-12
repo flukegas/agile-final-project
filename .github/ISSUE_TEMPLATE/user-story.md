@@ -1,4 +1,12 @@
 ---
+name: User Story
+about: Agile User Story template
+title: ''
+labels: enhancement
+assignees: ''
+
+---
+
 ### User Story
 **As a** [role, e.g., Customer]
 **I need** [function, e.g., to create a product]
@@ -8,7 +16,3 @@
 **Given** [context, e.g., I am on the product page]
 **When** [event, e.g., I submit the form]
 **Then** [outcome, e.g., the product is saved]
-
----
-
-
